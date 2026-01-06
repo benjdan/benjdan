@@ -1,10 +1,10 @@
 <img src="images/svg/header_en.svg"></img>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Benjie, you can also call me Ben**
+# I'm Benjie, you can also call me Ben**
 
 I’m a Software Engineer with passion in tech and loves to build stuff.
 Most of my time is used in building stuff with AI, Web applications, Blockchain, Web3.0, and IOT that has integration into real-world 
-and practical applications that help people grow their careers. Most of the web application stuff I build and support involves Fintech apps, E-commerce and Gov't platforms. 
+and practical applications that help people grow their careers. Most of the web application stuff I have worked on and support involves Fintech apps, E-commerce, Gov't platforms, Airlines and Banking. 
 The other stuff here are real world pet projects and homelabs(see below). I also build end to end mobile applications using modern stacks with integration to backends. Welcome to my repo.
 
 ---
