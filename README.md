@@ -13,7 +13,7 @@ The other stuff here are real world pet projects and homelabs(see below). I also
 1. Using **mobile**: Scan the QR Codes below via app
 2. Using **desktop**: Click the respective Icons to be redirected
 
-### LinkedIn &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Website &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Facebook &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gmail
+### LinkedIn &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Website &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Facebook &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gmail
 <p align="left">
 <hr/>
 <a href="https://www.linkedin.com/in/benjie-dantic-784a7829/"><img height="100px" src="images/icons/linkedIn.jpg"></img></a> &nbsp; <a href="https://www.facebook.com/internetofthings.ph"><img height="100px" src="images/icons/iot.jpg"></img></a> &nbsp; <a href="https://www.facebook.com/benjie.dantic"><img height="100px" src="images/icons/fb.jpg"></img></a> &nbsp; <a href="mailto:benjie.dantic@gmail.com?subject=Hi%20Benjie%20Dantic%20@Github"><img height="100px" src="images/icons/email.jpg"/></a>
@@ -61,7 +61,7 @@ The other stuff here are real world pet projects and homelabs(see below). I also
 
 </details>
 <hr/>
-If you like what i do, maybe consider buying me a coffee/tea @ Ko-fi 🥺👉👈
+If you like what i do, maybe consider buying me a coffee/tea @ Ko-fi
 
 <a href="https://ko-fi.com/benjdan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee @ Ko-fi" width="150" ></a>
 
