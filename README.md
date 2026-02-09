@@ -9,21 +9,14 @@ The other stuff here are real world pet projects and homelabs(see below). I also
 
 ---
 
-### ☕ CONNECT WITH ME 
-<p align="left">
-<H4>LINKEDIN: </H4> <a href="https://www.linkedin.com/in/benjie-dantic-784a7829/"><img height="125px" src="images/icons/linkedIn.jpg"></img></a>
-</p>
+### ☕ TO CONNECT WITH ME:
+1. Using **mobile**: Scan the QR Codes below via app
+2. Using **desktop**: Click the respective Icons to be redirected
 
+### LinkedIn &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Website &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Facebook &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gmail
 <p align="left">
-<H4>SITE: </H4> <a href="https://www.facebook.com/internetofthings.ph"><img height="125px" src="images/icons/iot.jpg"></img></a>
-</p>
-
-<p align="left">
-<H4>FACEBOOK: </H4> <a href="https://www.facebook.com/benjie.dantic"><img height="125px" src="images/icons/fb.jpg"></img></a>
-</p>
-
-<p align="left">
-<H4>GMAIL: </H4> <a href="mailto:benjie.dantic@gmail.com?subject=Hi%20Benjie%20Dantic%20@Github"><img height="125px" src="images/icons/email.jpg"/></a>
+<hr/>
+<a href="https://www.linkedin.com/in/benjie-dantic-784a7829/"><img height="100px" src="images/icons/linkedIn.jpg"></img></a> &nbsp; <a href="https://www.facebook.com/internetofthings.ph"><img height="100px" src="images/icons/iot.jpg"></img></a> &nbsp; <a href="https://www.facebook.com/benjie.dantic"><img height="100px" src="images/icons/fb.jpg"></img></a> &nbsp; <a href="mailto:benjie.dantic@gmail.com?subject=Hi%20Benjie%20Dantic%20@Github"><img height="100px" src="images/icons/email.jpg"/></a>
 </p>
 
 <hr/>
