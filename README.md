@@ -21,7 +21,7 @@ The other stuff here are real world pet projects and homelabs(see below). I also
 
 <hr/>
 <details>
-  <summary><b>:computer: &nbsp;Tech knowledge</b></summary>
+  <summary><b>:computer: &nbsp;Tech knowledge</b>
   <br/>
 
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
@@ -58,7 +58,7 @@ The other stuff here are real world pet projects and homelabs(see below). I also
 ![MVVM Architecture](https://img.shields.io/badge/MVVM-888888.svg?&style=flat&logoColor=white)&nbsp;\
 ![DDD](https://img.shields.io/badge/DOMAIN%20DD-02569B.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
 ![TDD](https://img.shields.io/badge/TEST%20DD-E34F26.svg?&style=flat&logo=tdd&logoColor=white)&nbsp;
-
+</summary>
 </details>
 <hr/>
 If you like what i do, maybe consider buying me a coffee/tea @ Ko-fi
